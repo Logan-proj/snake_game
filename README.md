@@ -22,10 +22,11 @@ Python is required to run the main.py file
 
 ## Installation & Getting Started
 
+Open the command prompt and enter the following:
     git clone https://github.com/Logan-proj/snake_game.git
     cd snake_game
     python main.py
-    
+Game should open and play if done correctly.
 ## Reference
 
 Snake game GUI was created using the turtle module:
